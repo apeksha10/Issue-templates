@@ -40,6 +40,12 @@ If applicable, add screenshots to help explain your problem.
 - [] This bug happens with a default WordPress theme active, or [Storefront](https://woocommerce.com/storefront/)
 - [] I can reproduce this bug consistently using the steps above
 
+**WordPress Environment**
+<details>
+```
+Copy and paste the system status report from **WooCommerce > System Status** in WordPress admin.
+```
+</details>
 
 **Additional context**
 Add any other context about the problem here.
