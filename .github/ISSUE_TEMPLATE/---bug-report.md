@@ -33,11 +33,13 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
-Isolating the problem (mark completed items with an [x]):
 
-- [ ]  I have deactivated other plugins and confirmed this bug occurs when only WooCommerce plugin is active.
-- [ ] This bug happens with Storefront.
- - [ ]I can reproduce this bug consistently using the steps above.
+<!-- MARK COMPLETED ITEMS WITH AN [x] -->
+
+- [ ] This bug happens with only WooCommerce plugin active
+- [ ] This bug happens with a default WordPress theme active, or [Storefront](https://woocommerce.com/storefront/)
+- [ ] I can reproduce this bug consistently using the steps above
+
 
 **Additional context**
 Add any other context about the problem here.
