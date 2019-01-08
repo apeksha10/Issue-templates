@@ -36,7 +36,7 @@ If applicable, add screenshots to help explain your problem.
 
 <!-- MARK COMPLETED ITEMS WITH AN [x] -->
 
-- [ ] This bug happens with only WooCommerce plugin active
+- [ ] This bug happens with only Abandoned cart pro plugin active
 - [ ] This bug happens with a default WordPress theme active, or [Storefront](https://woocommerce.com/storefront/)
 - [ ] I can reproduce this bug consistently using the steps above
 
