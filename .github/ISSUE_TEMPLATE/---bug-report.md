@@ -35,9 +35,9 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 Isolating the problem (mark completed items with an [x]):
 
-  I have deactivated other plugins and confirmed this bug occurs when only WooCommerce plugin is active.
-  This bug happens with Storefront.
-  I can reproduce this bug consistently using the steps above.
+- [ ]  I have deactivated other plugins and confirmed this bug occurs when only WooCommerce plugin is active.
+- [ ] This bug happens with Storefront.
+ - [ ]I can reproduce this bug consistently using the steps above.
 
 **Additional context**
 Add any other context about the problem here.
