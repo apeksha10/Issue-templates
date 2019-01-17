@@ -1,5 +1,5 @@
 ---
-name: "\U0001F41E Bug report"
+name: "\U0001F41E Bug report-Custom Order Status for WooCommerce Pro"
 about: Create a report to help us improve
 title: ''
 labels: bug
@@ -20,8 +20,8 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots or Video**
+If applicable, add screenshots or Video to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
@@ -35,16 +35,12 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 **Isolating the problem (mark completed items with an [x]):**
-- [] This bug happens with only Abandoned cart pro plugin active
-- [] This bug happens with a default WordPress theme active, or [Storefront](https://woocommerce.com/storefront/)
-- [] I can reproduce this bug consistently using the steps above
+ [ ] This bug happens with only Custom Order Status for WooCommerce Pro plugin active
+ [ ] This bug happens with a default WordPress theme active, or [Storefront]
+ [ ] I can reproduce this bug consistently using the steps above
 
 **WordPress Environment**
 <details>
 ```
-Copy and paste the system status report from **WooCommerce > System Status** in WordPress admin.
-```
-</details>
-
 **Additional context**
 Add any other context about the problem here.
