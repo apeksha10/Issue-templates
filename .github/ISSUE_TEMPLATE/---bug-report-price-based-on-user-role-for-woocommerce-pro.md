@@ -1,5 +1,5 @@
 ---
-name: Bug report-Product Delivery Date lite
+name: "\U0001F41E Bug report-Price based on User Role for WooCommerce Pro"
 about: Create a report to help us improve
 title: ''
 labels: bug
@@ -35,7 +35,7 @@ If applicable, add screenshots or Video to help explain your problem.
  - Version [e.g. 22]
 
 **Isolating the problem (mark completed items with an [x]):**
- [ ] This bug happens with only Product Delivery Date for WooCommerce - Lite plugin active
+ [ ] This bug happens with the only Price based on User Role for WooCommerce Pro plugin active
  [ ] This bug happens with a default WordPress theme active, or [Storefront]
  [ ] I can reproduce this bug consistently using the steps above
 
