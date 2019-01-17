@@ -1,6 +1,5 @@
 ---
-name: "\U0001F41EBug report-Payment Gateway Based Fees and Discounts for WooCommerce
-  Pro"
+name: "\U0001F41EBug report-WooCommerce Print Invoice & Delivery Note"
 about: Create a report to help us improve
 title: ''
 labels: bug
@@ -36,7 +35,7 @@ If applicable, add screenshots or Video to help explain your problem.
  - Version [e.g. 22]
 
 **Isolating the problem (mark completed items with an [x]):**
-- [ ] This bug happens with only Payment Gateway Based Fees and Discounts for WooCommerce Pro plugin active
+- [ ] This bug happens with only WooCommerce Print Invoice & Delivery Note plugin active
 - [ ] This bug happens with a default WordPress theme active, or [Storefront]
 - [ ] I can reproduce this bug consistently using the steps above
 
